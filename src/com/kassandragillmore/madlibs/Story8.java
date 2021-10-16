@@ -1,0 +1,1 @@
+package com.kassandragillmore.madlibs;public class Story8 {    public static void start () {        System.out.println("MadLib story");    }}
