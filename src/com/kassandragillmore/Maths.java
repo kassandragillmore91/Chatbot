@@ -1,1 +1,1 @@
-package com.kassandragillmore;public class Maths {    public static void start() {        System.out.println("I'm learning maths to be able to compute simple equations.");    }}
+package com.kassandragillmore;public class Maths {    public static void start() {        System.out.println("I'm still learning how to maths properly");    }}
