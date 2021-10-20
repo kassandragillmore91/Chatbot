@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4691f5ed-07aa-4ac9-8dc1-b6bb3a045d3d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Chatbot/com/kassandragillmore/Joke.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chatbot/com/kassandragillmore/Joke.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Chatbot/com/kassandragillmore/MadLib.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chatbot/com/kassandragillmore/MadLib.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Chatbot/com/kassandragillmore/madlibs/Story0.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chatbot/com/kassandragillmore/madlibs/Story0.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Chatbot/com/kassandragillmore/madlibs/Story1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chatbot/com/kassandragillmore/madlibs/Story1.class" afterDir="false" />
@@ -19,21 +18,6 @@
       <change beforePath="$PROJECT_DIR$/out/production/Chatbot/com/kassandragillmore/madlibs/Story7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chatbot/com/kassandragillmore/madlibs/Story7.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Chatbot/com/kassandragillmore/madlibs/Story8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chatbot/com/kassandragillmore/madlibs/Story8.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Chatbot/com/kassandragillmore/madlibs/Story9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chatbot/com/kassandragillmore/madlibs/Story9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kassandragillmore/Joke.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kassandragillmore/Joke.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kassandragillmore/MadLib.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kassandragillmore/MadLib.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kassandragillmore/Maths.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kassandragillmore/Maths.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kassandragillmore/ToDoList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kassandragillmore/ToDoList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kassandragillmore/madlibs/Story0.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kassandragillmore/madlibs/Story0.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kassandragillmore/madlibs/Story1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kassandragillmore/madlibs/Story1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kassandragillmore/madlibs/Story10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kassandragillmore/madlibs/Story10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kassandragillmore/madlibs/Story2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kassandragillmore/madlibs/Story2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kassandragillmore/madlibs/Story3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kassandragillmore/madlibs/Story3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kassandragillmore/madlibs/Story4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kassandragillmore/madlibs/Story4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kassandragillmore/madlibs/Story5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kassandragillmore/madlibs/Story5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kassandragillmore/madlibs/Story6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kassandragillmore/madlibs/Story6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kassandragillmore/madlibs/Story7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kassandragillmore/madlibs/Story7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kassandragillmore/madlibs/Story8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kassandragillmore/madlibs/Story8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kassandragillmore/madlibs/Story9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kassandragillmore/madlibs/Story9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,6 +107,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -149,8 +137,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1634249902416</updated>
+      <workItem from="1634666563554" duration="315000" />
+      <workItem from="1634672023878" duration="285000" />
+      <workItem from="1634672383151" duration="64000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
