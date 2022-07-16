@@ -5,19 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4691f5ed-07aa-4ac9-8dc1-b6bb3a045d3d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Chatbot/com/kassandragillmore/MadLib.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chatbot/com/kassandragillmore/MadLib.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Chatbot/com/kassandragillmore/madlibs/Story0.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chatbot/com/kassandragillmore/madlibs/Story0.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Chatbot/com/kassandragillmore/madlibs/Story1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chatbot/com/kassandragillmore/madlibs/Story1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Chatbot/com/kassandragillmore/madlibs/Story10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chatbot/com/kassandragillmore/madlibs/Story10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Chatbot/com/kassandragillmore/madlibs/Story2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chatbot/com/kassandragillmore/madlibs/Story2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Chatbot/com/kassandragillmore/madlibs/Story3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chatbot/com/kassandragillmore/madlibs/Story3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Chatbot/com/kassandragillmore/madlibs/Story4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chatbot/com/kassandragillmore/madlibs/Story4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Chatbot/com/kassandragillmore/madlibs/Story5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chatbot/com/kassandragillmore/madlibs/Story5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Chatbot/com/kassandragillmore/madlibs/Story6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chatbot/com/kassandragillmore/madlibs/Story6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Chatbot/com/kassandragillmore/madlibs/Story7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chatbot/com/kassandragillmore/madlibs/Story7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Chatbot/com/kassandragillmore/madlibs/Story8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chatbot/com/kassandragillmore/madlibs/Story8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Chatbot/com/kassandragillmore/madlibs/Story9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chatbot/com/kassandragillmore/madlibs/Story9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chatbot/com/kassandragillmore/Maths.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chatbot/com/kassandragillmore/Maths.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kassandragillmore/Maths.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kassandragillmore/Maths.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,6 +131,11 @@
       <workItem from="1634666563554" duration="315000" />
       <workItem from="1634672023878" duration="285000" />
       <workItem from="1634672383151" duration="64000" />
+      <workItem from="1637959610436" duration="437000" />
+      <workItem from="1638004355716" duration="2000" />
+      <workItem from="1650417770534" duration="371000" />
+      <workItem from="1651102463349" duration="1325000" />
+      <workItem from="1657862864882" duration="1053000" />
     </task>
     <servers />
   </component>
